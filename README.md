@@ -1,5 +1,4 @@
-# Master Of Sudoku
-
+# py-sudoku
 Sudoku solver and generator written in Python.
 
 ## Table of Contents
@@ -10,7 +9,7 @@ Sudoku solver and generator written in Python.
 * [License](#license)
 
 ## General info
-This project is sudoku solver and generator. Aims to learn a Python programming language. 
+This project is sudoku solver and generator. Aims to solve sudoku by human methods and generate them based on the level of difficulty. 
 	
 ## Technologies
 Project is created with:
@@ -19,16 +18,16 @@ Project is created with:
 ## Setup
 
 1. Clone this repository with: 
-    ``` git clone (link) ```
+    ``` git clone https://github.com/samuel-clemens/py-sudoku ```
 2. In terminal:
     ``` sh
-    $ cd MasterOfSudoku 
+    $ cd py-sudoku
     ```
 3. 
 
 ## Todos
 
-    - Write more tests
+    * Write more tests
     
 
 ## License
